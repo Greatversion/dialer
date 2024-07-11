@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "923363015758",
+    "project_id": "dialerapp-fba8a",
+    "storage_bucket": "dialerapp-fba8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923363015758:android:7dc3201ce8659a39d2571f",
+        "android_client_info": {
+          "package_name": "com.example.dialerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ2R5v6ximeV18gIKBvIerLIEvQDPm4FQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
